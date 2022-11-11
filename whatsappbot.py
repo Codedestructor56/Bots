@@ -4,7 +4,7 @@ from selenium.webdriver.common.keys import Keys
 
 import time
 contact = "Int()"
-text = "Hello, niggers! "
+text = "Hello, fellas! "
 driver = webdriver.Chrome()
 driver.get("https://web.whatsapp.com")
 print("Scan QR Code, And then Enter")
